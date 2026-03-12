@@ -1,7 +1,8 @@
-# DaVinci_Scripts_Updated
+# DaVinci_Scripts_Modified
 Updated DaVinci Scripts for running the full DaVinci deconvolution method on chemical probing data. 
+Modified from HV
 
-This pipeline works for both Illumina and Nanopore seqeuencing reads. Please be sure to have the blasr and seqtk packages installed. On the JLab Linux, please type conda activate DaVinci before proceeding with any of the steps.
+This pipeline works for both Illumina and Nanopore seqeuencing reads. Please be sure to have the blasr and seqtk packages installed. 
 
 If downloading for the first time, please also enable permissions to use the kmeans.sh file by typing:
 
